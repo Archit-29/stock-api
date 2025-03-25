@@ -10,7 +10,7 @@ A FastAPI-based stock price and AI-powered stock analysis API using Yahoo Financ
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/stock-api.git
+   git clone https://github.com/Archit-29/stock-api.git
    cd stock-api
    ```
 
